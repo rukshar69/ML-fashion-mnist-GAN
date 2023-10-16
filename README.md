@@ -11,4 +11,12 @@ There are 2 parts of GAN model: Generator and Discriminator.
 
 **Generator**
 
+![Generator](https://github.com/rukshar69/ML-fashion-mnist-GAN/blob/main/Images/generator.png)
+
 **Discriminator** 
+
+![Discriminator](https://github.com/rukshar69/ML-fashion-mnist-GAN/blob/main/Images/discriminator.png)
+
+## References:
+- [Keras custom callback methods](https://www.tensorflow.org/guide/keras/writing_your_own_callbacks#epoch-level_methods_training_only)
+- [Fashion-GAN](https://github.com/nicknochnack/GANBasics/tree/main)
